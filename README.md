@@ -1,0 +1,2 @@
+# Binero
+Solves binero puzzles
