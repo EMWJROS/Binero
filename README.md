@@ -1,5 +1,8 @@
 # Binero
 ![A binero](https://github.com/EMWJROS/Binero/blob/main/Binero.png)
+
+The squares are to be filled with zeros and ones. Each row and column shall contain the same number of ones and zeros. There must not be more than two zeros or ones in line, regardless of direction. Each column must be unique. The same holds for the rows.
+
 ## My solution
 
 The following algorithm goes back to a sudoku-solving program that I wrote in 2005 when
