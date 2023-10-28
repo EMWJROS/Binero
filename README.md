@@ -1,5 +1,5 @@
 # Binero
-
+![A binero](https://github.com/EMWJROS/Binero/blob/main/Binero.png)
 ## My solution
 
 The following algorithm goes back to a sudoku-solving program that I wrote in 2005 when
